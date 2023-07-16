@@ -1,1 +1,3 @@
-this is django class -version-1
+this is django class -change-1
+
+this is easy to learn and also implement-->change-2
