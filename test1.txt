@@ -4,3 +4,6 @@ this is easy to learn and also implement-->change-2
 
 some student not practice ,so they are getting hard to do project
 in django.->change-3
+
+Students are very good bcz they are not asking any doubts
+in django.->change-4
